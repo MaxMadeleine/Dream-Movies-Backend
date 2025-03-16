@@ -1,0 +1,27 @@
+{
+  "name": "dream-movies-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMadeleine/Dream-Movies-Backend.git"
+  },
+  "author": "Max Madeleine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMadeleine/Dream-Movies-Backend/issues"
+  },
+  "homepage": "https://github.com/MaxMadeleine/Dream-Movies-Backend#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
