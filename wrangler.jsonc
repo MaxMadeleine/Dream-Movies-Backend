@@ -3,4 +3,4 @@
     "compatibility_date": "2025-03-22",
     "main": "index.js",
     "compatibility_flags": ["nodejs_compat"]
-  }
+}
